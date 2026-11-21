@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "book_count": 12,
+  "files_count": 21,
+  "source": "AL KHALED Supabase mirror of original data sources",
+  "sources": {
+    "hadith": "https://github.com/fawazahmed0/hadith-api",
+    "quranpedia": "https://quranpedia.net",
+    "qurtubi": "https://github.com/spa5k/tafsir_api"
+  },
+  "files": [
+    {
+      "path": "abudawud.json.gz",
+      "bytes": 969607,
+      "sha256": "525b7b61bd9147288b5250b0a72f8472051af0704a618c24fe11aaf2841a7eca"
+    },
+    {
+      "path": "baghawi.json.gz",
+      "bytes": 4558115,
+      "sha256": "cdf2680094d6f11a80388e6b5bd44053644c2c95f3e739662e1ddda6dc0a511c"
+    },
+    {
+      "path": "bukhari.json.gz",
+      "bytes": 1492761,
+      "sha256": "e03a684e805cd1998cb9dc67b9c6c0d9e871308b28775cc420a9e46975abf7a9"
+    },
+    {
+      "path": "ibnkathir.json.gz",
+      "bytes": 8335420,
+      "sha256": "26749df050617a92fb12e871395dcf1228a475e008d29035d71e61f75ed4f230"
+    },
+    {
+      "path": "ibnmajah.json.gz",
+      "bytes": 676824,
+      "sha256": "1c8cdbe613af1286f1945c5482ff9d005b0c8814efbe3fb1d1dec766eab2ece9"
+    },
+    {
+      "path": "mawardi.json.gz",
+      "bytes": 1673433,
+      "sha256": "5753e913a93c092b8ec46b7beb1e4fbf6f0f800c0cd0fc717b9cc3341da8fa0d"
+    },
+    {
+      "path": "mokhtasar.json.gz",
+      "bytes": 647997,
+      "sha256": "b5d831c64c14bd312590fcf4355696590cd12cc6cb7f203ed3764ec4df8f7984"
+    },
+    {
+      "path": "muslim.json.gz",
+      "bytes": 1193348,
+      "sha256": "30b93f74a72187419ffd023131e3e9d68a1897ac65ca5d71574c654be738d9ef"
+    },
+    {
+      "path": "nasai.json.gz",
+      "bytes": 821705,
+      "sha256": "6d9dc95b2ae69f16355868cc65a4f1e53d7106f99686653876431944311113aa"
+    },
+    {
+      "path": "qurtubi/1-12.json.gz",
+      "bytes": 4838521,
+      "sha256": "54d66c8237876b22b7998dff6b4a9213c3a2f584842f5312d7adce1de2fd396e"
+    },
+    {
+      "path": "qurtubi/109-114.json.gz",
+      "bytes": 86938,
+      "sha256": "2b086bf457a520430d14760183d71320129e3e036ad1499c0283f327fe0691e8"
+    },
+    {
+      "path": "qurtubi/13-24.json.gz",
+      "bytes": 2607088,
+      "sha256": "7a7f1e19db864ad6501287718ceb21de68045bd1d9c631f41be13834f9e4f00c"
+    },
+    {
+      "path": "qurtubi/25-36.json.gz",
+      "bytes": 1395419,
+      "sha256": "c6866dce48bed7763774ea31fba16364bc85c97bf3310d266161628aacd10fa0"
+    },
+    {
+      "path": "qurtubi/37-48.json.gz",
+      "bytes": 1088062,
+      "sha256": "460af3614ec0d45a24a212ba25f50bd0f87d9605c46cae0326ad226b83274511"
+    },
+    {
+      "path": "qurtubi/49-60.json.gz",
+      "bytes": 798346,
+      "sha256": "24d34905505d353620eacdc152287ad750a918ea343ffab8194ad450f9ed80e6"
+    },
+    {
+      "path": "qurtubi/61-72.json.gz",
+      "bytes": 311810,
+      "sha256": "45c3099a73ebbcc66ff29d0c42393c2dbd53b2138eb9db3fb38be3e1f2f2ca8a"
+    },
+    {
+      "path": "qurtubi/73-84.json.gz",
+      "bytes": 680573,
+      "sha256": "4d5e45baa217170148aa5909ef337daebdf9dd92d58b1930b0ef1c849cf69a41"
+    },
+    {
+      "path": "qurtubi/85-96.json.gz",
+      "bytes": 196587,
+      "sha256": "ae77b2d8c0afa6ab4d9e641dd9d2d27c843b56ebc42cd96d17c489fa860bba7c"
+    },
+    {
+      "path": "qurtubi/97-108.json.gz",
+      "bytes": 115657,
+      "sha256": "ae987d965dad102bb4453316b54eacf75998248d177dbbc0d9edaa6be41f309e"
+    },
+    {
+      "path": "safwat.json.gz",
+      "bytes": 11109925,
+      "sha256": "6ea94f37e3bf9496398c69093672606a35fc997d722ac6221ba8e88d7d6def1b"
+    },
+    {
+      "path": "tabari.json.gz",
+      "bytes": 10025398,
+      "sha256": "ea7132febfe16c40247388ca37716aee05e1d320f6c470f70f784c2f2051b966"
+    }
+  ]
+}
